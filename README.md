@@ -4,7 +4,7 @@ This is the repository containing the scripts (in both `Python` and `R`) and cla
 
 # Contents
 
-Each folder contains an `.ipynb`, `.Rmd` file and a corresponding `R Markdown` HTML file. If there are any images or data associated with the code, they will be in the folder with their respective scripts. 
+Each folder contains `.ipynb` and `.R` files. If there are any images or data associated with the code, they will be in the folder with their respective scripts. 
 
 # Course Objectives
 
