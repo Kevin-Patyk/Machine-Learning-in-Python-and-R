@@ -8,7 +8,7 @@ Each folder contains an `.ipynb`, `.Rmd` file and a corresponding `R Markdown` H
 
 # Course Objectives
 
-To cover many machine learning concepts in both `Python` and `R`. The topics covered include:
+The objective of this online course is to cover many machine learning concepts in both `Python` and `R`. The topics covered include:
 
 * Data Preprocessing
 * Simple Linear Regression
@@ -26,3 +26,7 @@ To cover many machine learning concepts in both `Python` and `R`. The topics cov
 * PCA
 * LDA
 * Boosting 
+
+# The Team 
+
+This course was created by Kirill Eremenko, Hadelin de Ponteves, Ligency I Team, SuperDataScience Support, and the Ligency Team. 
